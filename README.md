@@ -25,17 +25,17 @@ Tabela de conteúdos
 
 ## Menu de Opções
 <h1>
-  <img alt="print da tela" src="./screenshots/menu.png" />
+  <img alt="print da tela" src="./screemshots/menu.png" />
 </h1>
 
 ### Lista de Séries Cadastradas
 <h1>
-  <img alt="Print da tela" src="./screenshots/listaSeries.png" />
+  <img alt="Print da tela" src="./screemshots/listaSeries.png" />
 </h1>
 
 ### Mostrando detalhes de uma série escolhida
 <h1>
-  <img alt="Print da tela" src="./screenshots/detalhesSerie.png" />
+  <img alt="Print da tela" src="./screemshots/detalhesSerie.png" />
 </h1>
 
 ## ✅ Como Usar <a name="como-usar"> 
