@@ -11,13 +11,13 @@ namespace Dio.Series.Enum
         Comedia = 3,
         Documentario = 4,
         Drama = 5,
-        Espionagem = 5,
-        Faroeste = 6,
-        Fantasia = 7,
-        Ficcao_Cientifica = 8,
-        Musical = 9,
-        Romance = 10,
-        Suspense = 11,
+        Espionagem = 6,
+        Faroeste = 7,
+        Fantasia = 8,
+        Ficcao_Cientifica = 9,
+        Musical = 10,
+        Romance = 11,
+        Suspense = 12,
         Terror = 13
     }
 }
